@@ -1,8 +1,7 @@
 - 👋 Hi, I’m marc
-- 👀 I’m interested in oclock online school
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in [oclock online school](https://oclock.io/)
+- 🌱 I’m currently learning things about Accessibility to work on [this course](https://oclock.io/formations/developpeur-web-et-accessibilite)
+- 📫 You can reach me here : marc@oclock.io
 
 <!---
 marc-oclock/marc-oclock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
